@@ -32,8 +32,8 @@ The findings highlight clear patterns in pricing, brand performance, and custome
 * Pothys’ specialization in Indian wear showcases how certain brands carve out niches and excel in specific segments.
 * The significant tilt towards women’s fashion in terms of representation suggests a higher demand or focus on this segment, which aligns with broader industry trends.
 
-Actionable Recommendations:
+# Actionable Recommendations:
 
-Focus marketing strategies on the highly rated brands like Roadster to drive more sales.
-Explore opportunities to balance product offerings for men’s fashion to bridge the gender distribution gap.
-Continue emphasizing top-rated categories such as Indian wear and Western wear for revenue growth.
+* Focus marketing strategies on the highly rated brands like Roadster to drive more sales.
+* Explore opportunities to balance product offerings for men’s fashion to bridge the gender distribution gap.
+* Continue emphasizing top-rated categories such as Indian wear and Western wear for revenue growth.
